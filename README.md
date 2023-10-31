@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 # 💫About Me :
-🔭 I’m currently working on Styli.
+🔭 Results-Driven Mobile App Developer | Flutter Enthusiast | Innovative Problem Solver
+💡 Innovation Catalyst: I thrive on innovating solutions, evidenced by contributions to open-source plugins.
 🌱 I’m currently learning more and more about Flutter and Dart - backend.
 💬 Ask me about Flutter or any tech-related stuff.
 😄 Pronouns: He/His
